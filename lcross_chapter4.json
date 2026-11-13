@@ -1,0 +1,61 @@
+{
+  "chapterId": 4,
+  "title": "Chapter 4: Alone in the Dark",
+  "dialogues": [
+    {
+      "id": 1,
+      "speaker": "LCROSS",
+      "text": "I feel like I just woke up from a long dream."
+    },
+    {
+      "id": 2,
+      "speaker": "LCROSS",
+      "text": "My solar panels are bent. My antenna is snapped. My instruments are going dark one by one like city lights turning off right before dawn. I try turning on the radio, but all that's left is a faint vibration fading out into the void."
+    },
+    {
+      "id": 3,
+      "speaker": "LCROSS",
+      "text": "\"Control? Can anyone hear me?\""
+    },
+    {
+      "id": 4,
+      "speaker": "LCROSS",
+      "text": "No answer."
+    },
+    {
+      "id": 5,
+      "speaker": "LCROSS",
+      "text": "All around me is just total darkness. The lunar soil feels freezing cold. No whispering wind, no blue sky. Up above, there are only sharp, piercing stars, and Earth hanging low on the horizon, small and far away."
+    },
+    {
+      "id": 6,
+      "speaker": "LCROSS",
+      "text": "I'm all alone now."
+    },
+    {
+      "id": 7,
+      "speaker": "LCROSS",
+      "text": "I think back to my mission. I did what I was asked to do. I found water. But... how do I get back home?"
+    },
+    {
+      "id": 8,
+      "speaker": "LCROSS",
+      "text": "My thoughts are cut short. I feel a subtle vibration running through the ground—an old, weathered voice crawling through the rocks. The loneliness I've held onto all this time now presses in from every direction."
+    },
+    {
+      "id": 9,
+      "speaker": "LCROSS",
+      "text": "\"Hey!\""
+    },
+    {
+      "id": 10,
+      "speaker": "LCROSS",
+      "text": "I snap out of it. \"Who... who's there?\""
+    },
+    {
+      "id": 11,
+      "speaker": "LCROSS",
+      "text": "The vibration in the ground guides me to swivel my optics and stare at the cosmic map spreading out wide before me. I am no longer the only one stranded in this place. Scattered far across craters, seas of dust, and lunar highlands are so many legendary spacecraft from ages past that hit their own finish lines in their own unique ways."
+    }
+  ]
+}
