@@ -1,0 +1,61 @@
+{
+  "chapterId": 2,
+  "title": "Chapter 2: Born Into Space",
+  "dialogues": [
+    {
+      "id": 1,
+      "speaker": "LCROSS",
+      "text": "June 18, 2009, was the day I was born into space. At Cape Canaveral, Florida, an Atlas V 401 rocket shook the ground and pierced the blue sky, carrying me and LRO away from Earth. This wasn't a quick trip. I didn't just shoot straight for the Moon like an arrow."
+    },
+    {
+      "id": 2,
+      "speaker": "LCROSS",
+      "text": "For the first few months, I orbited Earth in long loops called phasing loops. I swung around in huge ellipses, sometimes dipping close to Earth, sometimes drifting far away, waiting for the right moment to make the leap to the Moon. This period felt a lot like waiting around before a big exam."
+    },
+    {
+      "id": 3,
+      "speaker": "LCROSS",
+      "text": "I checked my instruments, calibrated my spectrometers, and made sure every single sensor was ready to go. My sibling, LRO, had already separated earlier to start its job of mapping the Moon from orbit. As for me, I stayed joined with the Centaur, biding my time."
+    },
+    {
+      "id": 4,
+      "speaker": "LCROSS",
+      "text": "Finally, after a long series of maneuvers that took me across nearly 5.6 million miles in total, I entered the Moon's gravitational pull. Earth, which had been my only home until now, shrank into a distant blue marble behind me."
+    },
+    {
+      "id": 5,
+      "speaker": "LCROSS",
+      "text": "The Moon, which used to look like nothing more than a pale disc in the night sky, had now become a real world—crusted, covered in craters, and completely silent. No wind. No sound."
+    },
+    {
+      "id": 6,
+      "speaker": "LCROSS",
+      "text": "For months, Centaur and I flew as one. Centaur was the rocket's upper stage that had launched me into space. The engineers had mapped out a super precise plan: at about 9 hours and 40 minutes before impact, roughly 87,000 kilometers above the lunar surface, I would let Centaur go."
+    },
+    {
+      "id": 7,
+      "speaker": "LCROSS",
+      "text": "Once detached, Centaur would coast on its own, pulled in by the Moon's gravity, and slam straight into the floor of Cabeus Crater. Meanwhile, I would pull off a 180-degree turn so I could watch the crash from behind, like a shepherd watching over its flock crossing a valley."
+    },
+    {
+      "id": 8,
+      "speaker": "LCROSS",
+      "text": "Choosing Cabeus Crater wasn't just a random pick. Cabeus sits near the Moon's south pole—a crater whose floor hasn't been touched by sunlight for billions of years. Picture a swimming pool permanently stuck in the shadows, where temperatures can drop to around minus 238 degrees Celsius, just a few degrees above absolute zero."
+    },
+    {
+      "id": 9,
+      "speaker": "LCROSS",
+      "text": "In a place that freezing, water molecules tossed onto the Moon by comet impacts or solar winds could stay trapped forever. Cabeus is one of the few spots on the Moon where water, if it actually exists, has a fighting chance of surviving. That's why NASA picked it as the target."
+    },
+    {
+      "id": 10,
+      "speaker": "LCROSS",
+      "text": "On October 9, 2009, at around 11:31 UTC, Centaur slammed into the floor of Cabeus Crater. A bright flash lit up the pitch-black crater, followed by a plume of dust and vapor shooting upward right into the sunlight. Trailing kilometers behind, I immediately kicked into gear."
+    },
+    {
+      "id": 11,
+      "speaker": "LCROSS",
+      "text": "All nine of my instruments fired up at once. My eyes were wide open. It was time to uncover the secrets the Moon had been hiding."
+    }
+  ]
+}
