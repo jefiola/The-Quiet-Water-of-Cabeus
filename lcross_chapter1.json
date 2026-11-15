@@ -1,0 +1,45 @@
+{
+  "chapterId": 1,
+  "title": "Chapter 1: The Question That Bugged Scientists",
+  "dialogues": [
+    {
+      "id": 1,
+      "speaker": "LCROSS",
+      "text": "My name is LCROSS: Lunar Crater Observation and Sensing Satellite. I wasn’t born by accident, but out of a question that had been bugging scientists for decades: Is there water on the Moon?"
+    },
+    {
+      "id": 2,
+      "speaker": "LCROSS",
+      "text": "The question is simple. If the Moon actually holds water, humans wouldn't need to haul all their supplies from Earth just to live and work up there. Water can be turned into oxygen to breathe, hydrogen for fuel, and of course, drinking water for astronauts. The Moon would go from just a dry rock orbiting Earth into a stepping stone toward worlds further out."
+    },
+    {
+      "id": 3,
+      "speaker": "LCROSS",
+      "text": "That's why NASA, through the Ames Research Center in California, designed me as a secondary mission alongside the Lunar Reconnaissance Orbiter, or LRO, my sibling."
+    },
+    {
+      "id": 4,
+      "speaker": "LCROSS",
+      "text": "My shape is pretty simple compared to those fancy spacecraft you see in movies. I weigh around 621 kilograms, made up of a Centaur rocket upper stage—which is my main weapon—and a shepherding spacecraft, which is my actual body."
+    },
+    {
+      "id": 5,
+      "speaker": "LCROSS",
+      "text": "The Centaur stage is about 12.68 meters long with a 3-meter diameter, an empty cylinder from the Atlas V 401 rocket that carried me into takeoff. Once in space, the Centaur was no longer just an empty fuel tank. It became a projectile that I would send crashing into the Moon."
+    },
+    {
+      "id": 6,
+      "speaker": "LCROSS",
+      "text": "My body carries nine scientific instruments. There's a visible-light camera to record the impact up close, near-infrared and mid-infrared spectrometers to analyze the impact flash for signs of water, a total-light photometer to measure the dust glow, and an infrared camera sensitive to temperature changes."
+    },
+    {
+      "id": 7,
+      "speaker": "LCROSS",
+      "text": "All of them are my eyes and ears, because in the last few minutes of my life, they're the only ones doing the work. I won't have time to overthink things. After the Centaur hits the Moon, I've got about four minutes to fly right through the dust plume, observe, measure, beam the data back to Earth, and then follow it down to crash."
+    }
+  ],
+  "nextChapter": {
+    "chapterId": 2,
+    "file": "lcross_chapter2.json"
+  }
+}

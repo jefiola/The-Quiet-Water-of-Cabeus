@@ -1,0 +1,101 @@
+[
+  {
+    "id": "lcross",
+    "name": "LCROSS Centaur",
+    "celestialBody": "Moon",
+    "launchYear": 2009,
+    "landingCoordinates": "84.675°S 48.000°W",
+    "loreDescription": "My name is LCROSS: Lunar Crater Observation and Sensing Satellite. I wasn’t born by accident, but out of a question that had been bugging scientists for decades: Is there water on the Moon?",
+    "imageAsset": "lcross-centaur.png"
+  },
+  {
+    "id": "luna2",
+    "name": "Luna 2",
+    "celestialBody": "Moon",
+    "launchYear": 1959,
+    "landingCoordinates": "29.100°N 0.000°E",
+    "loreDescription": "I am Luna 2, a Soviet spacecraft that became the first human-made object to successfully reach the Moon’s surface.",
+    "imageAsset": "luna-2.png"
+  },
+  {
+    "id": "luna-orbiter",
+    "name": "Luna Orbiter",
+    "celestialBody": "Moon",
+    "launchYear": 1966,
+    "landingCoordinates": "3.000°N 56.000°W",
+    "loreDescription": "I am the Lunar Orbiter, part of a fleet of five NASA spacecraft tasked with mapping the Moon’s surface and identifying safe landing sites for the Apollo astronauts.",
+    "imageAsset": "luna-orbiter.png"
+  },
+  {
+    "id": "luna9",
+    "name": "Luna 9",
+    "celestialBody": "Moon",
+    "launchYear": 1966,
+    "landingCoordinates": "7.130°N 64.370°W",
+    "loreDescription": "I am Luna 9, a Soviet spacecraft that became the first in history to successfully perform a soft landing on the Moon’s surface.",
+    "imageAsset": "luna-9.png"
+  },
+  {
+    "id": "ranger7",
+    "name": "Ranger 7",
+    "celestialBody": "Moon",
+    "launchYear": 1964,
+    "landingCoordinates": "10.700°S 20.700°W",
+    "loreDescription": "I am Ranger 7, a NASA spacecraft that successfully transmitted thousands of close-up images of the Moon’s surface before finally crashing into it.",
+    "imageAsset": "ranger-7.png"
+  },
+  {
+    "id": "surveyor3",
+    "name": "Surveyor 3",
+    "celestialBody": "Moon",
+    "launchYear": 1967,
+    "landingCoordinates": "3.010°S 23.420°W",
+    "loreDescription": "I am Surveyor 3, an unmanned lander belonging to the United States, tasked with studying the lunar soil and confirming that the Moon’s surface is suitable for human landing.",
+    "imageAsset": "surveyor-3.png"
+  },
+  {
+    "id": "lunokhod",
+    "name": "Lunokhod",
+    "celestialBody": "Moon",
+    "launchYear": 1970,
+    "landingCoordinates": "38.250°N 35.000°W",
+    "loreDescription": "I am Lunokhod 1, an eight-wheeled rover from the Soviet Union—the first wheeled vehicle ever to traverse the Moon’s surface.",
+    "imageAsset": "lunokhod.png"
+  },
+  {
+    "id": "eagle-apollo11",
+    "name": "Eagle (Apollo 11)",
+    "celestialBody": "Moon",
+    "launchYear": 1969,
+    "landingCoordinates": "0.674°N 23.473°E",
+    "loreDescription": "I am a remnant of the Eagle, the descent stage of the Apollo 11 lunar module—the platform that supported humanity’s first steps on the Moon.",
+    "imageAsset": "eagle-apollo11.png"
+  },
+  {
+    "id": "apollo15-rover",
+    "name": "Apollo 15 Lunar Roving Vehicle",
+    "celestialBody": "Moon",
+    "launchYear": 1971,
+    "landingCoordinates": "26.130°N 3.630°E",
+    "loreDescription": "I am the Lunar Roving Vehicle from the Apollo 15 mission, the first motorized vehicle ever transported to and driven by humans on another world.",
+    "imageAsset": "apollo15-rover.png"
+  },
+  {
+    "id": "vikram",
+    "name": "Vikram Lander",
+    "celestialBody": "Moon",
+    "launchYear": 2019,
+    "landingCoordinates": "70.900°S 22.800°E",
+    "loreDescription": "I am Vikram, India’s youngest lander, named in honor of Vikram Sarabhai, the father of India’s space program.",
+    "imageAsset": "vikram-lander.png"
+  },
+  {
+    "id": "chandrayaan1",
+    "name": "Chandrayaan-1",
+    "celestialBody": "Moon",
+    "launchYear": 2008,
+    "landingCoordinates": "Unknown (Impacted near South Pole)",
+    "loreDescription": "I am Chandrayaan-1, whose name means ‘Lunar Probe’ in Sanskrit—India’s first space mission and its first journey to the Moon.",
+    "imageAsset": "chandrayaan-1.png"
+  }
+]
